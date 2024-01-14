@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio-Manager-Api](https://github.com/SpicyGarnachas/Portfolio-Manager-Api)
 
-- 🌱 I’m currently learning **C#, Data Analytics**
+- 🌱 I’m currently learning **C#, Data Analytics, Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpicyGarnachas?tab=repositories](https://github.com/SpicyGarnachas?tab=repositories)
 
