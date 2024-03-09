@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SpicyGarnachas</h1>
 <h3 align="center">About to graduate in June 2024, I have developed projects in web technologies such as HTML, CSS, JavaScript, SQL, and C#. I stand out for projects focused on data management, ranging from warehouse inventories to student records. I have proficiency in English to comprehend technical documentation and communicate.</h3>
 
-- 🔭 I’m currently working on [Portfolio-Manager-Api](https://github.com/SpicyGarnachas/Portfolio-Manager-Api)
+- 🔭 I’m currently working on [SpicyGarnachas.InvestmentApiV2](https://github.com/SpicyGarnachas/SpicyGarnachas.InvestmentApiV2)
 
 - 🌱 I’m currently learning **C#, Data Analytics, Azure**
 
