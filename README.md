@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SpicyGarnachas.InvestmentApiV2](https://github.com/SpicyGarnachas/SpicyGarnachas.InvestmentApiV2)
 
-- 🌱 I’m currently learning **C#, Data Analytics, Azure**
+- 🌱 I’m currently learning **C#, data, Azure**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SpicyGarnachas?tab=repositories](https://github.com/SpicyGarnachas?tab=repositories)
 
